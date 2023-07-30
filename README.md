@@ -9,7 +9,7 @@ Dizemos que uma sequência de colchetes é válida se as seguintes condições f
 atendidas:\ 
 - Não contém colchetes sem correspondência.
 - O subconjunto de colchetes dentro dos limites de um par de colchetes correspondente
-também é um par de colchetes correspondentes.\
+também é um par de colchetes correspondentes.
 
 
 ### Exemplos:
